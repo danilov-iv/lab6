@@ -1,0 +1,11 @@
+E:\study\прога\lab6\lab6\bin\Debug\netcoreapp3.1\lab6.exe
+E:\study\прога\lab6\lab6\bin\Debug\netcoreapp3.1\lab6.deps.json
+E:\study\прога\lab6\lab6\bin\Debug\netcoreapp3.1\lab6.runtimeconfig.json
+E:\study\прога\lab6\lab6\bin\Debug\netcoreapp3.1\lab6.runtimeconfig.dev.json
+E:\study\прога\lab6\lab6\bin\Debug\netcoreapp3.1\lab6.dll
+E:\study\прога\lab6\lab6\bin\Debug\netcoreapp3.1\lab6.pdb
+E:\study\прога\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.csprojAssemblyReference.cache
+E:\study\прога\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.AssemblyInfoInputs.cache
+E:\study\прога\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.AssemblyInfo.cs
+E:\study\прога\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.dll
+E:\study\прога\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.pdb
